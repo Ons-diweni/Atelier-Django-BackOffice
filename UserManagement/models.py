@@ -3,6 +3,7 @@ from django.db import models
 # Create your models here.
 
 class UserApp (models.Model):
+    #CharField requires that you give it a max_length , That’s used not only in the database schema, but in validation
     firstname = models.CharField(max_length=50)
     lastname = models.CharField(max_length=90)
     email=models.EmailField(validators=[])
