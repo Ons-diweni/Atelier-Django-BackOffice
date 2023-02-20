@@ -8,3 +8,6 @@
 
 Pensez à gènerer le fichier requirements.txt qui contient la liste des paquets Python dont l'installation est requise dans l'environnement virtuel pour que l'application s'exécute correctement avec la commande : " pip freeze > requirements.txt "
 Puis tapez "pip install -r requirements.txt" pour les installer
+
+
+- $\ \ \textcolor{Coral}{replacing \ the \ default \ user \ model \ with \ a \ custom \ one \ that \ uses \ an \ email \ as \ the \ unique \ identifier \ instead \ of \ a \ username }$  
