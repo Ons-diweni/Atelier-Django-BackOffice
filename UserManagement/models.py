@@ -31,7 +31,7 @@ class CustomUser(AbstractUser):
     
     #tells Django what to print when it needs to print out an instance of this model , it simply returns a string representation of the object.
     def __str__(self) :
-        return self.email ; 
+        return self.first_name +' '+self.last_name ; 
     
     objects = CustomUserManager()
 
