@@ -8,7 +8,7 @@ class CustomUserAdmin(admin.ModelAdmin):
     verbose_name  = 'Users'
     date_hierarchy = 'date_joined'
     empty_value_display = '-empty-'
-    #If you want a form for the Author model that includes only the first_name , last_name and email fields, you would specify fields like this:
+    #If you want a form for the CustomUser model that includes only the first_name , last_name and email fields, you would specify fields like this:
     fields = ('first_name', 'last_name' , 'email' , 'password')
     
 class EmployeeAdmin(admin.ModelAdmin):
