@@ -10,4 +10,6 @@ Pensez à gènerer le fichier requirements.txt qui contient la liste des paquets
 Puis tapez "pip install -r requirements.txt" pour les installer
 
 
-- $\ \ \textcolor{Coral}{replacing \ the \ default \ user \ model \ with \ a \ custom \ one \ that \ uses \ an \ email \ as \ the \ unique \ identifier \ instead \ of \ a \ username }$  
+- $\ \ \textcolor{Coral}{replacing \ the \ default \ user \ model \ with \ a \ custom \ one \ that uses \ an \ email \ as \ the \ unique \ }$  
+$\ \ \textcolor{Coral}{identifier \ instead \ of \ a \ username }$  
+
