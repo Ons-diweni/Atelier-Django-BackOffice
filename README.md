@@ -6,7 +6,7 @@
 
 
 
-Pensez à gènerer le fichier requirements.txt qui contient la liste des paquets Python dont l'installation est requise dans l'environnement virtuel pour que l'application s'exécute correctement avec la commande : " pip freeze > requirements.txt "
+Pensez à gènerer le fichier requirements.txt qui contient la liste des paquets Python dont l'installation est requise dans l'environnement virtuel pour que l'application s'exécute correctement avec la commande : "pip freeze > requirements.txt"
 Puis tapez "pip install -r requirements.txt" pour les installer
 
 
