@@ -1,6 +1,6 @@
 
-![](https://img.shields.io/badge/Workshop1-grey?style=for-the-badge)
-![](https://img.shields.io/badge/Django4-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Workshop1-green?style=for-the-badge)
+![](https://img.shields.io/badge/Django4-green?style=for-the-badge)
 ![](https://img.shields.io/badge/Python3-grey?style=for-the-badge)
 # $\mathcal{{Workshop  \ Django 4 \ BO} \ \}$
 
